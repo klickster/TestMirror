@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "com.marijnzwemmer.unity-toolbar-extender": {
+      "version": "https://github.com/marijnz/unity-toolbar-extender.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "dbd76ed996483d219c39d240f785b1790aa039ed"
+    },
+    "com.padoru.audio-lib": {
+      "version": "https://github.com/PadoruGames/audio-lib.git#0.2.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "faa203755ea4eae35310ccef414c3fd41208368c"
+    },
+    "com.padoru.core-lib": {
+      "version": "https://github.com/PadoruGames/core-lib.git#0.3.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f697e0505602977050cd120b8a6d4d20de8a5bc7"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.9",
       "depth": 1,
@@ -150,6 +171,13 @@
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.0.2",
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
